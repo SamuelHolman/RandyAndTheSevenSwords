@@ -1,0 +1,13 @@
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Book Battles.vbprojAssemblyReference.cache
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Book Battles.vbproj.GenerateResource.cache
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Book Battles.vbproj.CoreCompileInputs.cache
+C:\Users\Locke\source\repos\Book Battles\Book Battles\bin\Debug\Randy and the Seven Swords.exe.config
+C:\Users\Locke\source\repos\Book Battles\Book Battles\bin\Debug\Randy and the Seven Swords.exe
+C:\Users\Locke\source\repos\Book Battles\Book Battles\bin\Debug\Randy and the Seven Swords.pdb
+C:\Users\Locke\source\repos\Book Battles\Book Battles\bin\Debug\Randy and the Seven Swords.xml
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy_Swords.Resources.resources
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy and the Seven Swords.exe
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy and the Seven Swords.xml
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy and the Seven Swords.pdb
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy_Swords.MainMenu.resources
+C:\Users\Locke\source\repos\Book Battles\Book Battles\obj\Debug\Randy_Swords.StartingArea.resources
